@@ -1,0 +1,417 @@
+    1  ls
+    2  clear
+    3  sudo apt update && sudo apt upgrade
+    4  clear
+    5  ls
+    6  sudo apt install gnome-text-editor -y
+    7  clear
+    8  ls
+    9  clear
+   10  cd /mnt/c
+   11  ls
+   12  cd Users
+   13  ls
+   14  clear
+   15  cd tenda
+   16  ls
+   17  clear
+   18  cd Documents
+   19  ls
+   20  clear
+   21  cd src
+   22  ls
+   23  git init
+   24  git brach -m person
+   25  git add person.js 
+   26  git commit -m "person project"
+   27  git push git@github.com:Umuzi-org/Tendani-Masala-223-person-javascript.git
+   28  git remote add git@github.com:Umuzi-org/Tendani-Masala-223-person-javascript.git
+   29  git push
+   30  git push Umuzi-org/Tendani-Masala-223-person-javascript
+   31  git remote add person git@github.com:Umuzi-org/Tendani-Masala-223-person-javascript.git
+   32  git push
+   33  git push person
+   34  git status
+   35  git clone git@github.com:Umuzi-org/Tendani-Masala-223-person-javascript.git
+   36  git clone https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript
+   37  git remote add person https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript
+   38  git push person https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript
+   39  git push person git@github.com:Umuzi-org/Tendani-Masala-223-person-javascript.git
+   40  clear
+   41  git clone https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript
+   42  git push
+   43  git push person
+   44  git push https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript
+   45  git branch
+   46  git merge master
+   47  clear
+   48  git clone git@github.com:Umuzi-org/Tendani-Masala-223-person-javascript.git
+   49  git checkout -b person project
+   50  git checkout -b person
+   51  git status
+   52  git push
+   53  git push https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript
+   54  clear
+   55  cd Documents
+   56  cd ..
+   57  cd umuzi2
+   58  ls
+   59  git init
+   60  git add task1.js
+   61  git commit -m "level 1 coding challenges task1"
+   62  git branch task1
+   63  git push https://github.com/Umuzi-org/Tendani-Masala-219-level-1-programming-katas-javascript  task1 
+   64  clear
+   65  git clone https://github.com/Umuzi-org/Tendani-Masala-219-level-1-programming-katas-javascript.git
+   66  git add task1.js 
+   67  git commit -m "level 1 coding challenge task1"
+   68  git add task1.js
+   69  git commit -m "level 1 coding challenge task1"
+   70  git push origin main
+   71  git push origin task1
+   72  git push task1
+   73  git push 
+   74  git push main
+   75  clear
+   76  git push https://github.com/Umuzi-org/Tendani-Masala-219-level-1-programming-katas-javascript.git
+   77  clear
+   78  git branch task1
+   79  git reset HEAD task1
+   80  git status
+   81  cd ..
+   82  clear
+   83  cd src
+   84  ls
+   85  rmdir Tendani-Masala-223-person-javascript/
+   86  rm Tendani-Masala-223-person-javascript/
+   87  rm -r Tendani-Masala-223-person-javascript/
+   88  clear
+   89  ls
+   90  git clone https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript.git
+   91  git add .
+   92  git commint -m "person project"
+   93  git commit -m "person project"
+   94  git push 
+   95  git remote add main https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript.git
+   96  git push main
+   97  clear
+   98  git add person.js 
+   99  git commit -m 'person project'
+  100  git push main
+  101  ls
+  102  rm -r Tendani-Masala-223-person-javascript/
+  103  clear
+  104  ls
+  105  git branch
+  106  git branch -d person
+  107  git branch -d master
+  108  git branch
+  109  git add person
+  110  git add person.js
+  111  git push person
+  112  clear
+  113  ls
+  114  git clone https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript.git
+  115  ls
+  116  git add .
+  117  git status
+  118  clear
+  119  git add .
+  120  git commit 
+  121  git branch project
+  122  git add person.js
+  123  git commit
+  124  git checkout
+  125  git commit
+  126  clear
+  127  git branch -d person
+  128  git status
+  129  git branch
+  130  git checkout project
+  131  git commit
+  132  git add person.js
+  133  git commit
+  134  clear
+  135  git brancg -d person
+  136  git branch -d person
+  137  clear
+  138  ls
+  139  git push origin project
+  140  clear
+  141  git push project
+  142  clear
+  143  git push project https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript.git
+  144  clear
+  145  git push https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript.git
+  146  clear
+  147  git status
+  148  git branch'
+  149  git branch
+  150  clear
+  151  git add person.js 
+  152  git commit
+  153  clear
+  154  git push person project
+  155  git push person project https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript.git
+  156  clear
+  157  git add .
+  158  git status
+  159  git add person.js
+  160  git status
+  161  git chechout -b person_project
+  162  git checkout -b person_project
+  163  git add person.js
+  164  git status
+  165  vim person.js 
+  166  wsl
+  167  clear
+  168  /mnt/c
+  169  cd /mnt/c
+  170  cd Users
+  171  cd tenda
+  172  cd Documents
+  173  ls
+  174  cd umuzi2
+  175  clear
+  176  ls
+  177  rm -r Tendani-Masala-219-level-1-programming-katas-javascript/
+  178  clear
+  179  ls
+  180  git clone https://github.com/Umuzi-org/Tendani-Masala-219-level-1-programming-katas-javascript.git
+  181  git status
+  182  git checkout -b task1
+  183  git branch task1
+  184  git checkout task1
+  185  clear
+  186  git status
+  187  clear
+  188  git branch
+  189  git add task1
+  190  git add task1.js
+  191  git commit -m "level 1 coding challenge task1"
+  192  ls
+  193  clear
+  194  wsl
+  195  cd Documents/
+  196  cd umuzi2
+  197  ls
+  198  cd ..
+  199  cd src
+  200  ls
+  201  git init
+  202  git add person.js
+  203  git commit -m "person project"
+  204  clear
+  205  git brach
+  206  /mnt/c/Users/tenda/Documents
+  207  cd /mnt/c/Users/tenda/Documents
+  208  clear
+  209  cd Documents/
+  210  cd src
+  211  git init
+  212  git branch -m person_project
+  213  git branch
+  214  clear
+  215  git status
+  216  git add person.js
+  217  git commit -m "person project"
+  218  git remote origin https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript.git
+  219  git remote add -t person_project https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript.git
+  220  ls
+  221  git remote upstream https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript.git
+  222  git remote add https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript.git
+  223  git remote add -m main https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript.git
+  224  ls
+  225  git remote add myrepo https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript.git
+  226  ls
+  227  git push myrepo person_project
+  228  cd Documents/
+  229  cd src
+  230  ls
+  231  cd src
+  232  ls
+  233  cd ..
+  234  clear
+  235  git init
+  236  git branch -m person_project
+  237  git add src
+  238  git commit -m "person project"
+  239  git remote add myrepo https://github.com/Umuzi-org/Tendani-Masala-223-person-javascript.git
+  240  git push myrepo person_project
+  241  clear
+  242  cd Documents/
+  243  mkdir git-basic-exercises
+  244  cd git-basic-exercises/
+  245  ls -a
+  246  clear
+  247  git iniy
+  248  ls
+  249  git init
+  250  ls -a
+  251  clear
+  252  git status
+  253  clear
+  254  touch README.md
+  255  ls -a
+  256  git status
+  257  clear
+  258  git log
+  259  clear
+  260  git add README.md
+  261  git status
+  262  clear
+  263  git reset HEAD README.md
+  264  git reset README.md
+  265  git status
+  266  cleear
+  267  clear
+  268  git add README.md
+  269  git commit -m "initial commit"
+  270  clear
+  271  git log
+  272  clear
+  273  nano README.md
+  274  cat README.md 
+  275  git status
+  276  git add README.md 
+  277  git commit -m "second commit"
+  278  nano README.md 
+  279  git add README.md 
+  280  git commit -m "third commit"
+  281  clear
+  282  git log
+  283  git checkout 3ece4ba3942ceb460e50d78d13d0885234f095df
+  284  cat README.md 
+  285  git checkout main
+  286  git checkout master
+  287  cat README.md 
+  288  clear
+  289  git branch
+  290  git branch milkshake-flavours
+  291  git branch
+  292  git checkout milkshake-flavours
+  293  git branch
+  294  clear
+  295  nano milkshakes.md
+  296  git status
+  297  clear
+  298  git add milkshakes.md 
+  299  git commit -m "added initial flavours"
+  300  git log
+  301  clear
+  302  git checkout master
+  303  ls
+  304  git log
+  305  clear
+  306  git branch history
+  307  git checkout history
+  308  git log
+  309  clear
+  310  git branch
+  311  history > history.txt
+  312  git add history.txt 
+  313  git commit -m "added history"
+  314  git log
+  315  clear
+  316  git checkout milkshake-flavours 
+  317  git log
+  318  clear
+  319  git checkout master
+  320  clear
+  321  nano README.md 
+  322  git add README.md 
+  323  git commit -m "random readme changes"
+  324  git checkout history
+  325  cat README.md 
+  326  rm README.md 
+  327  echo "booya" > README.md
+  328  git add README.md 
+  329  git commit -m "rewrote readme"
+  330  git checkout master
+  331  clear
+  332  ls
+  333  git log
+  334  clear
+  335  git checkout milkshake-flavours 
+  336  ls
+  337  git log
+  338  git checkout history
+  339  ls
+  340  git log
+  341  clear
+  342  git checkout master
+  343  git merge milkshake-flavours
+  344  ls
+  345  git log
+  346  clear
+  347  git merge history
+  348  ls
+  349  git log
+  350  clear
+  351  git merge history
+  352  git checkout history
+  353  ls
+  354  clear
+  355  git checkout history
+  356  git checkout milkshake-flavours 
+  357  clear
+  358  git checkout history
+  359  git merge history
+  360  git rm README.md 
+  361  rm REadme.md
+  362  rm README.md
+  363  git merge history
+  364  ls
+  365  clear
+  366  git merge history
+  367  cd ..
+  368  ls
+  369  clear
+  370  mkdir git-basic-exercises
+  371  cd git-basic-exercises/
+  372  git init
+  373  clear
+  374  touch README.md
+  375  git log
+  376  git add README.md 
+  377  git commit -m "initial commit"
+  378  git log
+  379  clear
+  380  nano README.md 
+  381  cat README.md 
+  382  clear
+  383  git status
+  384  git add README.md 
+  385  git commit -m "second commit"
+  386  nano README.md 
+  387  git add README.md 
+  388  git commit -m "third commit"
+  389  clear
+  390  git log
+  391  clear
+  392  git branch
+  393  clear
+  394  git branch milkshake-flavours
+  395  git branch
+  396  git checkout milkshake-flavours 
+  397  clear
+  398  ls
+  399  git branch
+  400  clear
+  401  nano milkshakes.md
+  402  git status
+  403  clear
+  404  git add milkshakes.md
+  405  git commit -m "added initial flavours"
+  406  git log
+  407  clear
+  408  git checkout master
+  409  git log
+  410  clear
+  411  git branch history
+  412  git checkout history 
+  413  git log
+  414  clear
+  415  git branch
+  416  clear
+  417  history > history.txt
